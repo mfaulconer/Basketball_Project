@@ -1537,6 +1537,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401826920,2025-11-30T01:00Z,Northern Colorado Bears,59.0,45.0,,Regis (CO) REGIS UNIVERSITY,19.0,44.0,,Final
 401824065,2025-11-30T03:00Z,Pacific Tigers,32.0,36.0,,Sacramento State Hornets,32.0,22.0,,Final
 401823536,2025-11-30T03:00Z,Oregon State Beavers,30.0,39.0,,California Baptist Lancers,30.0,45.0,,Final
+401823218,2025-11-29T20:00Z,Northern Illinois Huskies,,,,Bellarmine Knights,,,,Canceled
 401819901,2025-11-30T20:00Z,Texas Tech Red Raiders,38.0,38.0,,Wyoming Cowboys,37.0,35.0,,Final
 401822324,2025-11-30T17:00Z,Ball State Cardinals,38.0,58.0,,Le Moyne Dolphins,38.0,47.0,,Final
 401822183,2025-11-30T17:00Z,La Salle Explorers,36.0,24.0,,Merrimack Warriors,42.0,24.0,,Final
@@ -1588,6 +1589,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401830319,2025-12-02T02:00Z,New Mexico Lobos,44.0,53.0,,New Mexico Highlands Cowboys,21.0,26.0,,Final
 401819866,2025-12-02T02:00Z,Colorado Buffaloes,32.0,46.0,,California Baptist Lancers,34.0,36.0,,Final
 401817470,2025-12-02T03:00Z,Stanford Cardinal,51.0,43.0,,Portland Pilots,31.0,41.0,,Final
+401822368,2025-12-02T01:00Z,Eastern Illinois Panthers,,,,Blackburn Beavers,,,,Postponed
 401825393,2025-12-03T01:00Z,Rutgers Scarlet Knights,27.0,38.0,,Purdue Boilermakers,40.0,41.0,,Final
 401806364,2025-12-03T00:30Z,Duke Blue Devils,36.0,31.0,,Florida Gators,24.0,42.0,,Final
 401812791,2025-12-03T02:00Z,Kansas Jayhawks,33.0,23.0,,UConn Huskies,29.0,32.0,,Final
@@ -1756,6 +1758,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401808732,2025-12-06T00:30Z,McNeese Cowboys,58.0,34.0,,Northwestern State Demons,24.0,30.0,,Final
 401812254,2025-12-06T01:00Z,TCU Horned Frogs,45.0,31.0,,Notre Dame Fighting Irish,36.0,40.0,,Final
 401824113,2025-12-06T03:00Z,San José State Spartans,52.0,34.0,,San Diego Toreros,34.0,35.0,,Final
+401831241,2025-12-05T22:00Z,Florida A&M Rattlers,,,,Barber Scotia BARBER SCOTIA,,,,Canceled
 401819877,2025-12-06T17:00Z,Purdue Boilermakers,31.0,27.0,,Iowa State Cyclones,35.0,46.0,,Final
 401823480,2025-12-07T03:00Z,Arizona Wildcats,44.0,53.0,,Auburn Tigers,32.0,36.0,,Final
 401825400,2025-12-06T21:00Z,Michigan Wolverines,50.0,51.0,,Rutgers Scarlet Knights,25.0,35.0,,Final
@@ -2173,6 +2176,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401823439,2025-12-16T01:00Z,Alabama A&M Bulldogs,28.0,40.0,,North Alabama Lions,29.0,31.0,,Final
 401820475,2025-12-16T01:00Z,Houston Christian Huskies,40.0,28.0,,McNeese Cowboys,33.0,45.0,,Final
 401812256,2025-12-16T01:00Z,TCU Horned Frogs,31.0,38.0,,Incarnate Word Cardinals,37.0,28.0,,Final
+401829375,2025-12-16T01:00Z,Southern Indiana Screaming Eagles,,,,East-West University Phantoms,,,,Canceled
 401823529,2025-12-17T02:00Z,Arizona Wildcats,51.0,45.0,,Abilene Christian Wildcats,31.0,31.0,,Final
 401817236,2025-12-16T23:00Z,Duke Blue Devils,48.0,49.0,,Lipscomb Bisons,45.0,28.0,,Final
 401822868,2025-12-17T01:30Z,UConn Huskies,39.0,40.0,,Butler Bulldogs,25.0,35.0,,Final
@@ -2472,6 +2476,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401824067,2025-12-22T00:00Z,Pacific Tigers,45.0,50.0,,Nicholls Colonels,34.0,48.0,,Final
 401823571,2025-12-22T00:00Z,Cal Poly Mustangs,26.0,47.0,,Idaho Vandals,29.0,44.0,,Final
 401828475,2025-12-22T02:30Z,UTEP Miners,32.0,39.0,,Norfolk State Spartans,42.0,30.0,,Final
+401829453,2025-12-21T23:00Z,Kansas City Roos,,,,Austin Peay Governors,,,,Canceled
 401826887,2025-12-23T02:00Z,Arizona Wildcats,49.0,58.0,,Bethune-Cookman Wildcats,35.0,36.0,,Final
 401819841,2025-12-23T02:00Z,BYU Cougars,53.0,56.0,,Eastern Washington Eagles,48.0,33.0,,Final
 401817271,2025-12-23T01:00Z,North Carolina Tar Heels,49.0,50.0,,East Carolina Pirates,26.0,25.0,,Final
@@ -3986,10 +3991,15 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401827640,2026-01-25T03:00Z,Arizona State Sun Devils,37.0,45.0,,Cincinnati Bearcats,33.0,35.0,,Final
 401809093,2026-01-25T03:00Z,UC San Diego Tritons,28.0,31.0,,UC Irvine Anteaters,28.0,33.0,,Final
 401809144,2026-01-25T04:59Z,Hawai'i Rainbow Warriors,40.0,49.0,,Cal State Northridge Matadors,34.0,34.0,,Final
+401830244,2026-01-24T21:30Z,North Carolina Central Eagles,,,,Delaware State Hornets,,,,Postponed
+401808712,2026-01-24T21:30Z,Northwestern State Demons,,,,East Texas A&M Lions,,,,Postponed
 401828195,2026-01-25T18:00Z,South Florida Bulls,33.0,56.0,,Florida Atlantic Owls,36.0,39.0,,Final
 401825470,2026-01-25T20:00Z,Washington Huskies,34.0,38.0,,Oregon Ducks,19.0,38.0,,Final
 401820218,2026-01-25T20:00Z,Mercyhurst Lakers,26.0,35.0,,Chicago State Cougars,28.0,31.0,,Final
 401825471,2026-01-25T21:00Z,Wisconsin Badgers,41.0,30.0,,USC Trojans,39.0,34.0,,Final
+401812393,2026-01-25T18:00Z,New Haven Chargers,,,,Saint Francis Red Flash,,,,Postponed
+401817640,2026-01-25T19:00Z,IU Indianapolis Jaguars,,,,Purdue Fort Wayne Mastodons,,,,Postponed
+401830280,2026-01-25T21:00Z,Evansville Purple Aces,,,,Southern Illinois Salukis,,,,Postponed
 401820816,2026-01-27T02:00Z,BYU Cougars,31.0,52.0,,Arizona Wildcats,44.0,42.0,,Final
 401820698,2026-01-27T00:00Z,Duke Blue Devils,38.0,45.0,,Louisville Cardinals,28.0,24.0,,Final
 401829286,2026-01-26T23:00Z,South Carolina State Bulldogs,32.0,38.0,,Delaware State Hornets,25.0,39.0,,Final
@@ -4000,6 +4010,11 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401825472,2026-01-27T00:00Z,Ohio State Buckeyes,50.0,34.0,,Penn State Nittany Lions,32.0,46.0,,Final
 401812406,2026-01-27T00:00Z,Stonehill Skyhawks,23.0,38.0,,Central Connecticut Blue Devils,24.0,35.0,,Final
 401808980,2026-01-27T01:00Z,Texas A&M-Corpus Christi Islanders,20.0,35.0,,UT Rio Grande Valley Vaqueros,24.0,40.0,,Final
+401827053,2026-01-27T00:00Z,Prairie View A&M Panthers,,,,Alabama A&M Bulldogs,,,,Postponed
+401822772,2026-01-27T00:00Z,Coppin State Eagles,,,,Howard Bison,,,,Postponed
+401812370,2026-01-27T00:00Z,Long Island University Sharks,,,,Wagner Seahawks,,,,Postponed
+401808713,2026-01-27T00:00Z,Lamar Cardinals,,,,East Texas A&M Lions,,,,Postponed
+401805178,2026-01-27T00:00Z,Tarleton State Texans,,,,Abilene Christian Wildcats,,,,Postponed
 401822918,2026-01-28T00:30Z,UConn Huskies,41.0,46.0,,Providence Friars,37.0,44.0,,Final
 401825474,2026-01-28T00:00Z,Michigan Wolverines,48.0,27.0,,Nebraska Cornhuskers,50.0,22.0,,Final
 401825475,2026-01-27T23:30Z,Rutgers Scarlet Knights,37.0,36.0,,Michigan State Spartans,28.0,45.0,,Final
@@ -4142,6 +4157,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401808517,2026-01-30T03:00Z,Sacramento State Hornets,45.0,38.0,,Montana State Bobcats,38.0,42.0,,Final
 401808506,2026-01-30T03:00Z,Portland State Vikings,28.0,32.0,,Montana Grizzlies,33.0,31.0,,Final
 401809113,2026-01-30T04:00Z,UC Irvine Anteaters,37.0,35.0,,Hawai'i Rainbow Warriors,28.0,44.0,,Final
+401808646,2026-01-30T00:30Z,UL Monroe Warhawks,,,,Georgia Southern Eagles,,,,Postponed
 401825481,2026-01-31T01:00Z,Michigan State Spartans,26.0,45.0,,Michigan Wolverines,42.0,41.0,,Final
 401828400,2026-01-31T01:00Z,Saint Louis Billikens,46.0,56.0,,Dayton Flyers,29.0,42.0,,Final
 401858731,2026-01-30T20:00Z,UL Monroe Warhawks,33.0,43.0,,Georgia Southern Eagles,37.0,42.0,,Final
@@ -4303,6 +4319,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401829223,2026-02-01T03:00Z,San Francisco Dons,35.0,52.0,,Pacific Tigers,32.0,50.0,,Final
 401808507,2026-02-01T03:00Z,Sacramento State Hornets,49.0,37.0,,Montana Grizzlies,32.0,47.0,,Final
 401804908,2026-02-01T03:05Z,Sam Houston Bearkats,34.0,49.0,,Louisiana Tech Bulldogs,32.0,35.0,,Final
+401829287,2026-01-31T21:30Z,South Carolina State Bulldogs,,,,North Carolina Central Eagles,,,,Postponed
 401825487,2026-02-01T21:00Z,Nebraska Cornhuskers,39.0,30.0,,Illinois Fighting Illini,33.0,45.0,,Final
 401827659,2026-02-01T19:00Z,Kansas State Wildcats,21.0,40.0,,Iowa State Cyclones,50.0,45.0,,Final
 401825486,2026-02-01T18:00Z,Maryland Terrapins,28.0,35.0,,Purdue Boilermakers,49.0,44.0,,Final
@@ -4973,6 +4990,7 @@ game_id,date,home_team,home_team_first_half_score,home_team_second_half_score,ho
 401809117,2026-02-15T03:00Z,UC Irvine Anteaters,41.0,45.0,,Cal State Fullerton Titans,32.0,33.0,,Final
 401809099,2026-02-15T03:00Z,UC San Diego Tritons,32.0,40.0,,UC Riverside Highlanders,28.0,38.0,,Final
 401829248,2026-02-15T03:35Z,Pacific Tigers,30.0,31.0,,Saint Mary's Gaels,28.0,44.0,,Final
+401828693,2026-02-14T21:30Z,South Carolina State Bulldogs,,,,Morgan State Bears,,,,Postponed
 401825518,2026-02-15T18:00Z,Illinois Fighting Illini,38.0,33.0,,Indiana Hoosiers,31.0,20.0,,Final
 401828229,2026-02-15T17:00Z,Charlotte 49ers,44.0,35.0,,UTSA Roadrunners,38.0,50.0,,Final
 401827685,2026-02-15T17:00Z,Cincinnati Bearcats,37.0,32.0,,Utah Utes,34.0,31.0,,Final
