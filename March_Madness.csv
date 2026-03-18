@@ -1,0 +1,70 @@
+Team Name,Team,NetRtg,ORtg,DRtg,Luck 
+Duke Blue Devils,1,38.9,128,89.1,0.049
+Arizona Wildcats,2,37.66,127.7,90,0.023
+Michigan Wolverines,3,37.59,126.6,89,0.045
+Florida Gators,4,33.79,125.5,91.7,-0.036
+Houston Cougars,5,33.43,124.9,91.4,-0.006
+Iowa State Cyclones,6,32.42,123.8,91.4,-0.012
+Illinois Fighting Illini,7,32.1,131.2,99.1,-0.05
+Purdue Boilermakers,8,31.2,131.6,100.4,-0.006
+Michigan State Spartans,9,28.31,123,94.7,0.005
+Gonzaga Bulldogs,10,28.1,122,93.9,0.072
+UConn Huskies,11,27.87,122,94.1,0.055
+Vanderbilt Commodores,12,27.51,126.8,99.3,0.018
+Virginia Cavaliers,13,26.71,122.5,95.8,0.056
+Nebraska Cornhuskers,14,26.16,118.5,92.4,0.034
+Arkansas Razorbacks,15,26.05,127.7,101.6,0.051
+Tennessee Volunteers,16,26.02,121.1,95,-0.06
+St. John's Red Storm,17,25.91,120.1,94.2,0.061
+Alabama Crimson Tide,18,25.72,129,103.3,0.019
+Louisville Cardinals,19,25.42,124.1,98.6,-0.02
+Texas Tech Red Raiders,20,25.22,125,99.8,0.006
+Kansas Jayhawks,21,24.44,118.3,93.9,0.053
+Wisconsin Badgers,22,23.39,125.3,102,0.041
+BYU Cougars,23,23.25,125.5,102.2,-0.017
+Saint Mary's Gaels,24,23.07,120.3,97.2,0.011
+Iowa Hawkeyes,25,22.44,121.7,99.3,-0.061
+Ohio State Buckeyes,26,22.24,124.3,102.1,-0.031
+UCLA Bruins,27,21.67,123.7,102.1,0.017
+Kentucky Wildcats,28,21.48,120.5,99,-0.019
+North Carolina Tar Heels,29,20.84,121.4,100.5,0.057
+Utah State Aggies,30,20.76,122.1,101.4,0.065
+Miami Hurricanes,31,20.68,121.4,100.7,0.021
+Georgia Bulldogs,32,20.48,124.7,104.2,-0.005
+Villanova Wildcats,33,19.97,120.4,100.4,0.067
+NC State Wolfpack,34,19.6,124.1,104.5,-0.029
+Santa Clara Broncos,35,19.4,123.6,104.2,0.015
+Clemson Tigers,36,19.24,116.5,97.3,0.011
+Texas Longhorns,37,19.03,125,105.9,-0.083
+Texas A&M Aggies,39,18.67,119.7,101,-0.002
+Oklahoma Sooners,40,18.37,124.2,105.8,-0.07
+Saint Louis Billikens,41,18.32,119.5,101.2,0.03
+SMU Mustangs,42,18.09,122.9,104.8,-0.043
+TCU Horned Frogs,43,17.59,115.4,97.8,0.004
+VCU Rams,45,17.21,119.9,102.7,-0.007
+South Florida Bulls,47,16.39,117.3,100.9,-0.026
+Missouri Tigers,52,15.3,119.5,104.1,0.041
+UCF Knights,54,15.04,120.5,105.4,0.097
+Akron Zips,64,12.8,118.8,106,0.018
+McNeese Cowboys,68,12.48,114.3,101.8,0.084
+Northern Iowa Panthers,72,11.81,110,98.2,-0.07
+Hofstra Pride,87,9.49,114.6,105.1,-0.052
+High Point Panthers,92,8.4,117,108.6,0.048
+Miami (OH) RedHawks,93,8.26,116.8,108.5,0.099
+California Baptist Lancers,106,5.99,107.9,101.9,0.091
+Hawai'i Rainbow Warriors,108,5.97,107.1,101.2,0.038
+North Dakota State Bison,113,5.13,111.7,106.6,0.04
+Wright State Raiders,140,2.04,112.1,110,0.009
+Troy Trojans,143,1.72,110.7,109,0.024
+Idaho Vandals,145,1.53,108.8,107.3,-0.012
+Pennsylvania Quakers,150,1.47,107.4,105.9,0.068
+Kennesaw State Owls,163,0.57,110.6,110.1,0.009
+Queens University Royals,181,-1.44,115.8,117.2,0.067
+UMBC Retrievers,185,-1.67,108.2,109.9,0.046
+Tennessee State Tigers,187,-1.83,109.1,110.9,0.07
+Furman Paladins,191,-1.98,107.5,109.4,0.01
+Siena Saints,192,-2.1,107.1,109.2,0.005
+Howard Bison,207,-3.19,103.1,106.3,-0.01
+Long Island University Sharks,216,-3.95,105.6,109.6,0.104
+Lehigh Mountain Hawks,284,-10.37,102.7,113.1,0.081
+Prairie View A&M Panthers,288,-10.69,101.2,111.9,0.013
